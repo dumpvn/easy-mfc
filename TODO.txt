@@ -1,0 +1,5 @@
+
+ ☐ Desktop development with C++
+     Build Windows desktop applications using the Microsoft C++ toolset, ATL, or MFC
+ ☐ Visual C++ MFC for x86 and x64
+     Includes headers and libraries for the development of MFC applications including the Multi-byte Character Set (MBCS).
